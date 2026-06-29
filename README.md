@@ -160,11 +160,11 @@ Message: Hi Lavanya
 ---
 # OUTPUTS:
 
+<img width="540" height="150" alt="Image" src="https://github.com/user-attachments/assets/297cef68-faa7-49b0-8aaf-d2d79dff4446" />
 
+<img width="392" height="157" alt="Image" src="https://github.com/user-attachments/assets/c99ba65d-5edc-4fcd-b96f-e5687bfd3068" />
 
-
-
-
+<img width="470" height="163" alt="Image" src="https://github.com/user-attachments/assets/95515047-b7e1-4300-8f30-456ba7aa0e19" />
 
 # 🔄 Project Workflow
 
